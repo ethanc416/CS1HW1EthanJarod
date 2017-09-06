@@ -1,3 +1,5 @@
+# Ethan and Jarod HW
+
 Item 1: Your first story, when you learn to push and pull. I want you to submit your story, as well as your git log.
 
 ##Answer
